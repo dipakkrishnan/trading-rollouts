@@ -1,6 +1,6 @@
 # trading-rollouts
 
-This project implements a Monte Carlo Tree Search (MCTS) algorithm using the Message Passing Interface (MPI) for parallel processing. The goal is to efficiently simulate and evaluate multiple rollouts in a trading environment.
+This project implements a Monte Carlo simulation of a trading strategy using the Message Passing Interface (MPI) for parallel processing. The goal is to efficiently simulate and evaluate multiple rollouts in a trading environment.
 
 ## Project Structure
 
@@ -15,6 +15,8 @@ To build the project, run the following command:
 ```bash
 make
 ```
+
+Note you need to have `mpicc` (MPI C compiler) installed on your system.
 
 ## Running the Simulation
 
