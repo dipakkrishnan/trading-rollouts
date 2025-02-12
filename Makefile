@@ -1,6 +1,6 @@
 CC = mpicc
 CFLAGS = -Wall -O2
-SRC = src/main.c src/utils.c
+SRC = src/main.c
 OUT = rollouts
 
 all:
