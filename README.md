@@ -6,7 +6,7 @@ This project implements a Monte Carlo Tree Search (MCTS) algorithm using the Mes
 
 - **Makefile**: Contains the build instructions for the project.
 - **simulate.sh**: Script to run the compiled program with MPI.
-- **src/**: Directory containing the source code files (`main.c`, `utils.c`).
+- **src/**: Directory containing the source code files (`main.c`).
 
 ## Building the Project
 
